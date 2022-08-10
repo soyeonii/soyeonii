@@ -1,3 +1,5 @@
+<div align="center">
+
 # LEE SO YEON 🥰
 
 [![VISIT](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeonii&count_bg=%23F2AAFE&title_bg=%239E01CE&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -26,3 +28,5 @@
 # 📬Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dingdingcrong@skuniv.ac.kr)](mailto:dingdingcrong@skuniv.ac.kr)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white&link=mailto:dingdingcrong@naver.com)](mailto:dingdingcrong@naver.com)
+
+</div>
