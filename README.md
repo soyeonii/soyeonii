@@ -1,16 +1,21 @@
 <div align="center">
 
-# LEE SO YEON 🥰
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SO%20YEON%20🥰&&customColorList=13)
 
-[![VISIT](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeonii&count_bg=%23F2AAFE&title_bg=%239E01CE&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
 
 ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeonii&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pure02so)](https://solved.ac/pure02so/)
+
+<br/>
 
 # 💪Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -24,6 +29,8 @@
 ![Visual%20Studio%20Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+<br/>
 
 # 📬Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dingdingcrong@skuniv.ac.kr)](mailto:dingdingcrong@skuniv.ac.kr)
