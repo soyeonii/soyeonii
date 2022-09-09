@@ -33,9 +33,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dingdingcrong@skuniv.ac.kr)](mailto:dingdingcrong@skuniv.ac.kr)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white&link=mailto:dingdingcrong@naver.com)](mailto:dingdingcrong@naver.com)
 
+<!--
 <br/><br/>
-
 ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeonii&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pure02so)](https://solved.ac/pure02so/)
+-->
 
 </div>
