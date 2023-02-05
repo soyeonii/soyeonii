@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LEE%20SO%20YEON%20🥰&&customColorList=13)
 
-  #  <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4da.png" width=30> STACKS
+  #  <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4da.png" width=30> Stacks
   
   ### Languages
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -42,8 +42,8 @@
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <!--   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) -->
   
-  ### SaaS
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<!--   ### SaaS
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 <!--   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
   
   ### Operating System
